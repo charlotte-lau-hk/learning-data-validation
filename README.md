@@ -2,7 +2,7 @@
 
 An interactive, bilingual web application designed for Information and Communication Technology (ICT) students to understand the concepts of Data Validation and Error Prevention.
 
-[Learning Data Validation](https://ylpss-mslau.github.io/learning_data_validation/)
+[Learning Data Validation](https://ylpss-mslau.github.io/learning-data-validation/)
 
 ## 🌟 Features
 
